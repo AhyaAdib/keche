@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: fbe7d0abcaeea1847b5da6f3bf2e4467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5895287227967640652
+    second: backgroundMain (2)_0
+  - first:
+      213: -9165029583451544722
+    second: backgroundMain (2)_2
+  - first:
+      213: 4183597370888670189
+    second: backgroundMain (2)_4
+  - first:
+      213: -9170387028136912625
+    second: backgroundMain (2)_5
+  - first:
+      213: 2109464341223161967
+    second: backgroundMain (2)_6
+  - first:
+      213: -157138414636701810
+    second: backgroundMain (2)_7
+  - first:
+      213: 1809514413499825624
+    second: backgroundMain (2)_8
+  - first:
+      213: -6474320719203758536
+    second: backgroundMain (2)_9
+  - first:
+      213: 5264568698414523289
+    second: backgroundMain (2)_10
+  - first:
+      213: -5310225216477677049
+    second: backgroundMain (2)_11
+  - first:
+      213: 2756210539895502857
+    second: backgroundMain (2)_12
+  - first:
+      213: 1313651674741149693
+    second: backgroundMain (2)_13
+  - first:
+      213: 5021161706708826770
+    second: backgroundMain (2)_14
+  - first:
+      213: -3018205719154812373
+    second: backgroundMain (2)_15
+  - first:
+      213: 117228570495590577
+    second: backgroundMain (2)_16
+  - first:
+      213: 7861255389111322146
+    second: backgroundMain (2)_17
+  - first:
+      213: 7672707154611003313
+    second: backgroundMain (2)_18
+  - first:
+      213: 509194360733845559
+    second: backgroundMain (2)_19
+  - first:
+      213: 161945913254461356
+    second: backgroundMain (2)_20
+  - first:
+      213: -8804125651309989396
+    second: backgroundMain (2)_21
+  - first:
+      213: 8831367881097095276
+    second: backgroundMain (2)_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backgroundMain (2)_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 780
+        width: 211
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4498efcf7440d150800000000000000
+      internalID: 5895287227967640652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backgroundMain (2)_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 829
+        width: 728
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ac6af6264fc080800000000000000
+      internalID: -9165029583451544722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backgroundMain (2)_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 438
+        width: 633
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce173cbcd5671d580800000000000000
+      internalID: -8804125651309989396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backgroundMain (2)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6826991c425f8a70800000000000000
+      internalID: 8831367881097095276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

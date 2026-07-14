@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f17807fe95824b64cabc08a053db8011, type: 3}
+  m_Name: SiteData
+  m_EditorClassIdentifier: 
+  site:
+  - SiteName: Goa Selomangleng
+    gambar: {fileID: 21300000, guid: 8056822c8dda7b74c838016921ecc13c, type: 3}
+    imagePrev: {fileID: 21300000, guid: 93a94fb13ad0dde4d98a16b822bb049b, type: 3}
+    flashcard:
+    - Nama: Goa Buatan Manusia
+      Lokasi: Mojoroto
+      Deskripsi: Goa Selomangleng merupakan salah satu goa buatan manusia yang dibentuk
+        dengan cara memahat batuan andesit di lereng Gunung Klotok. Goa ini bukanlah
+        formasi alami, melainkan hasil kerja manusia pada masa lalu yang menggambarkan
+        teknik penggalian batuan yang cukup canggih untuk zamannya.
+      GambarSprite: {fileID: 7305771925211494021, guid: fb7d30ae7bae06146a8ec84c32dc54b8, type: 3}
+    - Nama: Tempat Mandala Kadewaguruan
+      Lokasi: Mojoroto
+      Deskripsi: Pada masa lalu, Goa Selomangleng digunakan sebagai tempat <b>Mandala
+        Kadewaguruan</b>, yakni pusat pendidikan atau tempat belajar ilmu spiritual
+        dan pengetahuan bagi para calon pendeta atau orang yang ingin mendalami ajaran
+        agama Hindu-Buddha. Tempat ini dianggap suci dan digunakan untuk bertapa
+        serta pengajaran spiritual.
+      GambarSprite: {fileID: 1866644495864330354, guid: fb7d30ae7bae06146a8ec84c32dc54b8, type: 3}
+    - Nama: Pertapaan Dewi Kilisuci
+      Lokasi: Mojoroto
+      Deskripsi: Menurut legenda, goa ini juga dikenal sebagai tempat pertapaan Dewi
+        Kilisuci, putri dari Raja Erlangga, yang memilih hidup sebagai pertapa daripada
+        menjadi ratu. Dewi Kilisuci dianggap sebagai sosok suci dan dihormati di
+        wilayah Kediri. Goa ini dipercaya sebagai lokasi di mana Dewi Kilisuci melakukan
+        tapa brata (pertapaan) untuk mencapai kesucian spiritual.
+      GambarSprite: {fileID: 1977617723966305706, guid: fb7d30ae7bae06146a8ec84c32dc54b8, type: 3}
+  - SiteName: Gereja Merah
+    gambar: {fileID: 21300000, guid: 6d4c6795659d17c429ac554d1e93815f, type: 3}
+    imagePrev: {fileID: 21300000, guid: 34bde223b6d9c85418de1f2420e96577, type: 3}
+    flashcard:
+    - Nama: Desain Kolonial Modern
+      Lokasi: Mojoroto
+      Deskripsi: <b>GPIB Immanuel Kediri</b> atau <b>Gereja Merah</b> mengusung desain
+        kolonial modern yang merupakan perpaduan antara gaya arsitektur Eropa kolonial
+        dengan elemen modern. Desain ini mencerminkan pengaruh arsitektur Belanda
+        pada masa kolonial, dengan struktur bangunan yang kokoh, simetris, dan sering
+        menggunakan elemen seperti jendela besar dan ventilasi yang baik untuk menyesuaikan
+        dengan iklim tropis Indonesia.
+      GambarSprite: {fileID: 897540911878820901, guid: 67f965f191d5a4e4fb871c3aef8e2289, type: 3}
+    - Nama: Desain Awalnya Berwarna Putih
+      Lokasi: Mojoroto
+      Deskripsi: Saat pertama kali dibangun, gereja ini memiliki desain berwarna
+        putih yang menonjolkan kesan bersih dan suci, sesuai dengan fungsi bangunan
+        sebagai tempat ibadah. Warna putih pada bangunan kolonial sering digunakan
+        untuk menampilkan keanggunan dan kemegahan, serta untuk melambangkan kemurnian.
+      GambarSprite: {fileID: 7830145746914004533, guid: 67f965f191d5a4e4fb871c3aef8e2289, type: 3}
+    - Nama: Material Bangunan
+      Lokasi: Mojoroto
+      Deskripsi: Gereja Merah terbuat dari bahan baku yang berkualitas tinggi, yaitu
+        batu bata ekspos dan kayu jati. Batu bata ekspos digunakan untuk dinding
+        dan atap, sedangkan kayu jati digunakan untuk pintu, jendela, dan bagian
+        interior lainnya.
+      GambarSprite: {fileID: -4103025897733479442, guid: 67f965f191d5a4e4fb871c3aef8e2289, type: 3}
+    - Nama: Situs Cagar Budaya Tercatat Pertama
+      Lokasi: Mojoroto
+      Deskripsi: GPIB Immanuel Kediri adalah salah satu situs cagar budaya yang tercatat
+        pertama kali di Kota Kediri. Bangunan ini diakui sebagai warisan budaya karena
+        nilai sejarah dan arsitekturalnya yang penting, menjadikannya bagian penting
+        dari identitas sejarah Kediri. Sebagai situs cagar budaya, gereja ini dilindungi
+        oleh undang-undang dan dijaga kelestariannya untuk memastikan bahwa generasi
+        mendatang dapat terus menghargai warisan ini.
+      GambarSprite: {fileID: 4787589901152605387, guid: 67f965f191d5a4e4fb871c3aef8e2289, type: 3}
+  - SiteName: Jembatan Lama Kediri
+    gambar: {fileID: 21300000, guid: 739455832fec20c4db22327080eaf568, type: 3}
+    imagePrev: {fileID: 21300000, guid: f9cda2a0d6f309a48a97c9bd0bf081d1, type: 3}
+    flashcard:
+    - Nama: Brug Over den Brantas te Kediri
+      Lokasi: Kota
+      Deskripsi: Jembatan Lama ini pada awalnya dikenal dengan nama "Brug Over den
+        Brantas te Kediri," yang dalam bahasa Belanda berarti "Jembatan di atas Brantas
+        di Kediri." Dibangun pada masa kolonial Belanda, jembatan ini berfungsi sebagai
+        penghubung penting antara kedua sisi Sungai Brantas, yang merupakan urat
+        nadi transportasi dan perdagangan di wilayah Kediri pada masa itu.
+      GambarSprite: {fileID: -7475848136390796630, guid: 60018a4ebe15efb4494b9eb829398725, type: 3}
+    - Nama: Konstruksi Jembatan Besi Pertama di Jawa
+      Lokasi: Kota
+      Deskripsi: 'Jembatan Lama Kediri merupakan jembatan besi pertama yang dibangun
+        di Pulau Jawa. Konstruksi jembatan ini menggunakan teknologi dan material
+        modern pada zamannya, yakni besi, yang memberikan kekuatan dan daya tahan
+        yang lebih dibandingkan dengan jembatan-jembatan tradisional yang terbuat
+        dari kayu atau bahan lainnya. '
+      GambarSprite: {fileID: 5006531323525859585, guid: 60018a4ebe15efb4494b9eb829398725, type: 3}
+    - Nama: Hendak Diledakkan Pasukan J. Sudirman
+      Lokasi: Kota
+      Deskripsi: Selama masa perjuangan kemerdekaan Indonesia, Jembatan Lama Kediri
+        menjadi target strategis dalam upaya melawan pasukan Belanda. Pasukan Jenderal
+        Sudirman, yang dikenal dengan taktik gerilyanya, berencana meledakkan jembatan
+        ini untuk menghambat pergerakan pasukan Belanda dan memutus jalur logistik
+        mereka. Namun, rencana ini tidak terlaksana, dan jembatan tersebut tetap
+        berdiri hingga kini, menjadi saksi bisu dari peristiwa-peristiwa bersejarah
+        yang terjadi di sekitarnya.
+      GambarSprite: {fileID: -6555959200366394903, guid: 60018a4ebe15efb4494b9eb829398725, type: 3}
+  - SiteName: Setono Gedong
+    gambar: {fileID: 21300000, guid: 2694aadac66638b429d2f0c8a59cfe20, type: 3}
+    imagePrev: {fileID: 21300000, guid: f28d78332279a52479dbe8a9bb286691, type: 3}
+    flashcard:
+    - Nama: Berawal dari Candi
+      Lokasi: Kota
+      Deskripsi: "Makam Setono Gedong awalnya adalah sebuah candi peninggalan Hindu-Buddha.
+        Namun, ketika Islam mulai menyebar di wilayah Kediri, candi ini dialihfungsikan
+        menjadi sebuah masjid oleh para wali. Ini mencerminkan bagaimana akulturasi
+        budaya dan agama terjadi secara damai di Indonesia.\r"
+      GambarSprite: {fileID: -5289399250097453392, guid: d2e6161f459c6c34cb4e59610003121b, type: 3}
+    - Nama: Masjid yang dibangun semalam
+      Lokasi: Kota
+      Deskripsi: Legenda lokal menyebutkan bahwa masjid di Makam Setono Gedong dibangun
+        dalam waktu semalam oleh para wali. Hal ini memperkuat kepercayaan masyarakat
+        terhadap kesucian dan keajaiban situs ini. Meskipun merupakan cerita rakyat,
+        kisah ini menunjukkan betapa pentingnya peran para wali dalam penyebaran
+        Islam di Jawa.
+      GambarSprite: {fileID: -5155141466946322913, guid: d2e6161f459c6c34cb4e59610003121b, type: 3}
+    - Nama: Makam Syech Al-Wasil Syamsudin
+      Lokasi: Kota
+      Deskripsi: Di kompleks ini juga terdapat makam Syech Wasil, yang diyakini sebagai
+        guru dari Prabu Jayabaya, seorang raja terkenal dari Kerajaan Kediri. Syech
+        Wasil dianggap sebagai tokoh spiritual penting yang memiliki pengaruh besar
+        dalam kehidupan spiritual dan politik di masa itu, terutama bagi Jayabaya
+        yang dikenal dengan ramalannya yang legendaris.
+      GambarSprite: {fileID: -7450460929305926519, guid: d2e6161f459c6c34cb4e59610003121b, type: 3}
+  - SiteName: Klenteng Tjoe Hwie Kiong
+    gambar: {fileID: 21300000, guid: 12c681ae0fd18ae4c8718bc4806f2935, type: 3}
+    imagePrev: {fileID: 21300000, guid: 022877a82f99fab49bfb559d6203309b, type: 3}
+    flashcard:
+    - Nama: Markas Sam Kho Hwie
+      Lokasi: Kota
+      Deskripsi: Klenteng Tjoe Hwie Kiong berfungsi sebagai markas pertama bagi Sam
+        Kho Hwie dan gerakan perlawanan tersebut. Lokasinya yang strategis di Jalan
+        Yos Sudarso, Kota Kediri, membuatnya menjadi pusat aktivitas dan koordinasi
+        bagi para pendukung ajaran Tri Dharma.
+      GambarSprite: {fileID: -3258120775425533198, guid: d2709ba6c9f21354288700ed797eb8d7, type: 3}
+    - Nama: Pernah Menjadi Dermaga
+      Lokasi: Kota
+      Deskripsi: Klenteng Tjoe Hwie Kiong berada di tepi Sungai Brantas, yang merupakan
+        jalur perdagangan penting di masa lalu. Lokasinya strategis ini membuat klenteng
+        ini juga berfungsi sebagai dermaga.
+      GambarSprite: {fileID: -8356697568694888384, guid: d2709ba6c9f21354288700ed797eb8d7, type: 3}

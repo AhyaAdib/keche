@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class scanGraphScript : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        StartCoroutine(Scan());
+    }
+
+    IEnumerator Scan()
+    {
+        while(true)
+        {
+            yield return new WaitForSeconds(.7f);
+            AstarPath.active.Scan();
+        }
+    }
+}

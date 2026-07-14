@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4876ddcaae6073f4a91d456fa1a1c6ab, type: 3}
+  m_Name: museumDataContainer
+  m_EditorClassIdentifier: 
+  photos:
+  - siteSprite: {fileID: 21300000, guid: 67d98d1ce8fdf6a40839e2c9bbed6182, type: 3}
+    namaSitus: Kejaksaan Negeri Lama
+    deskripsi: '            Situs  Kejaksaan Negeri Kota Kediri memiliki sejarah
+      menarik yang berkaitan dengan arsitektur kolonial dan peranannya dalam era
+      kolonial Belanda. Bangunan ini memiliki nilai sejarah penting, karena selain
+      digunakan sebagai kantor pemerintahan sejak zaman kolonial, bangunan tersebut
+      juga mencerminkan perpaduan arsitektur Belanda dengan ornamen lokal.'
+  - siteSprite: {fileID: 21300000, guid: 4f666907445df96489f4ade244078277, type: 3}
+    namaSitus: SMAN 1 Kota Kediri
+    deskripsi: "    Pada masa pemerintahan kolonial Belanda, SMAN 1 Kota Kediri dibangun
+      sebagai sekolah lanjutan atau <b>Meer Uitgebreid Lager Onderwijs</b> (MULO).
+      Bangunan ini penting dalam pendidikan di zaman dahulu karena menjadi salah
+      satu sekolah lanjutan di Karesidenan Kediri. \n\n    Selain itu, gedung ini
+      juga pernah menjadi markas Tentara Jepang, Markas BKR, dan Devisi Brawijaya.
+      Tempat ini menjadi pusat koordinasi dan perencanaan strategi militer untuk
+      melawan pasukan kolonial, dan menjadi bagian penting dari sejarah Divisi Brawijaya
+      yang terkenal.\n"
+  - siteSprite: {fileID: 21300000, guid: 4587709d348ea7e41b3b5ac0284f4a61, type: 3}
+    namaSitus: Wisma Kapolres
+    deskripsi: "    Wisma Kapolres Kota Kediri terletak di Jl. KDP Slamet 39, Kota
+      Kediri. Bangunan ini awalnya dibangun pada tahun 1835 sebagai rumah dinas residen
+      Belanda. Pada Awal Kemerdekaan Indonesia: Setelah Indonesia merdeka, rumah
+      ini digunakan sebagai rumah dinas Letkol Surahmat\r, komandan Brigade S, Divisi
+      Narotama (Cikal bakal Kodam V Brawijaya). Kemudian, bangunan ini digunakan
+      sebagai markas Komando Resimen 34 dan Brigade X pimpinan Letkol Surahmat\r.\n\r\n   
+      Pada tahun 1948, Wisma Kapolres Kediri menjadi saksi bisu penangkapan Kolonel
+      Dahlan, pimpinan Brigade 29, yang terlibat dalam pemberontakan PKI Madiun.
+      Ibu Raden Ayu Sundari Surahmat, istri Letkol Surahmat, mendengar siaran radio
+      tentang keterlibatan Brigade 29 dan segera membangunkan Mayor Jono Soewoyo.
+      Mayor Jenderal Sutoyo dan Kapten Suyono beserta dua orang perwira dan empat
+      prajurit penjaga menangkap rombongan Kolonel Dahlan di ruang tamu Wisma Kapolres
+      Kediri\r\n"
+  - siteSprite: {fileID: 21300000, guid: 220865707015a024793a620e8da0d224, type: 3}
+    namaSitus: Pengadilan
+    deskripsi: '    Kantor Pengadilan Negeri Lama Kota Kediri, merupakan sebuah bangunan
+      yang telah ditetapkan sebagai situs cagar budaya oleh Pemerintah Kota Kediri
+      dan merupakan salah satu bangunan telah ada sejak masa kolonial Belanda.'
+  - siteSprite: {fileID: 21300000, guid: f0d02bb53977ec84a977af025a681a1a, type: 3}
+    namaSitus: Taman Siswa
+    deskripsi: "    Taman Siswa  diresmikan pada tahun 1933. Pada awal pembukaannya,
+      Taman Siswa langsung melakukan kontribusi dalam bidang pendidikan, hal ini
+      dilatarbelakangi oleh adanya pembatasan pendidikan oleh pemerintah kolonial.
+      Terdapat juga pengurus Taman Siswa sangat unik, dengan nama-nama seperti Ir.
+      Anwari dan Dr. Kodiat, yang juga dikenal sebagai salah satu dokter yang mendapatkan
+      penghargaan karena menyembuhkan penyakit Frambusia.\n\n    Ki Hajar Dewantara
+      pernah mengadakan kelas di sana, dan Taman Siswa pernah digunakan sebagai tempat
+      proklamasi kemerdekaan yang pertama di Kediri. Setelah kemerdekaan dikumandangkan,
+      ide dari Taman Siswa muncul untuk mengadakan pelucutan senjata di Brawijaya,
+      yang diprakarsai oleh seorang tokoh bernama Bismo."
+  - siteSprite: {fileID: 21300000, guid: 8056822c8dda7b74c838016921ecc13c, type: 3}
+    namaSitus: Goa Selomangleng
+    deskripsi: "    Selomangleng terdiri dari dua kata yakni Selo dan Mangleng, Selo
+      yang berarti Batu sedangkan Mangleng artinya Miring. Penyematan nama tersebut
+      berdasarkan posisi goa yang tampak seperti miring.\n \n    Goa Selomangleng
+      digunakan sebagai tempat Mandala Kadewaguruan, yakni pusat pendidikan atau
+      tempat belajar ilmu spiritual dan pengetahuan bagi para calon pendeta atau
+      orang yang ingin mendalami ajaran agama Hindu-Buddha. Tempat ini dianggap suci
+      dan digunakan untuk bertapa serta pengajaran spiritual.\n\n    Dikisahkan pada
+      zaman dahulu, terdapat Kerajaan Kahuripan yang dipimpin oleh Raja Airlangga.
+      Kemudian di akhir masa kepemimpinannya sang raja ingin menyerahkan tahta kepada
+      putrinya yang bernama Sanggramawijaya Tungga Dewi. Namun sang putri menolak
+      tahta sang raja, karena memilih untuk menjadi seorang petapa dan menyepi di
+      sebuah goa yang sekarang dikenal dengan nama Goa Selomangleng. \n"
+  - siteSprite: {fileID: 21300000, guid: 6d4c6795659d17c429ac554d1e93815f, type: 3}
+    namaSitus: Gereja Merah
+    deskripsi: "    Gereja Merah, atau GPIB Immanuel Kediri, adalah salah satu bangunan
+      bersejarah di Kota Kediri. Didirikan pada 21 Desember 1904, gereja ini dikenal
+      dengan nama \"Gereja Merah\" karena dominasi warna merah pada bangunannya.
+      Arsitekturnya bercirikan gaya kolonial Belanda dengan elemen khas seperti pintu
+      dan jendela kayu jati asli serta struktur bata tebal.\r\n\r\n    Gereja ini
+      didesain oleh J.A. Broers, yang saat itu juga menjabat sebagai pendeta. Setelah
+      diresmikan, gereja ini digunakan oleh jemaat Belanda hingga kemudian diserahkan
+      kepada jemaat GPIB pada 1948. Selain berfungsi sebagai tempat ibadah, Gereja
+      Merah juga menyimpan sebuah Kitab Injil kuno yang usianya sudah ratusan tahun,
+      menambah nilai sejarahnya sebagai cagar budaya.\r\n\r \n    Gereja ini tidak
+      hanya menjadi saksi sejarah tetapi juga telah mengalami beberapa restorasi
+      untuk menjaga keasliannya sambil tetap menyesuaikan dengan kebutuhan ibadah
+      modern."
+  - siteSprite: {fileID: 21300000, guid: 43ddaa29068affe43a25300917ba155d, type: 3}
+    namaSitus: Jembatan Lama
+    deskripsi: "    Jembatan Lama ini pada awalnya dikenal dengan nama \"Brug Over
+      den Brantas te Kediri,\" yang dalam bahasa Belanda berarti \"Jembatan di atas
+      Brantas di Kediri.\" Dibangun pada masa kolonial Belanda, jembatan ini berfungsi
+      sebagai penghubung penting antara kedua sisi Sungai Brantas, yang merupakan
+      urat nadi transportasi dan perdagangan di wilayah Kediri pada masa itu. \n   
+      \n    Jembatan ini merupakan jembatan besi pertama yang dibangun di Pulau Jawa,
+      menandai awal mula penerapan teknologi konstruksi modern di Jawa. Konstruksi
+      jembatan ini menggunakan teknologi dan material modern pada zamannya, yakni
+      besi, yang memberikan kekuatan dan daya tahan yang lebih dibandingkan dengan
+      jembatan-jembatan tradisional yang terbuat dari kayu atau bahan lainnya.\n\n   
+      Selama masa perjuangan kemerdekaan Indonesia, Jembatan Lama Kediri menjadi
+      target strategis dalam upaya melawan pasukan Belanda. Pasukan Jenderal Sudirman,
+      yang dikenal dengan taktik gerilyanya, berencana meledakkan jembatan ini untuk
+      menghambat pergerakan pasukan Belanda dan memutus jalur logistik mereka. Namun,
+      rencana ini tidak terlaksana, dan jembatan tersebut tetap berdiri hingga kini,
+      menjadi saksi bisu dari peristiwa-peristiwa bersejarah yang terjadi di sekitarnya."
+  - siteSprite: {fileID: 21300000, guid: 2694aadac66638b429d2f0c8a59cfe20, type: 3}
+    namaSitus: Setono Gedong
+    deskripsi: "    Di Kota Kediri ada salah satu ikon wisata religi, yakni Setono
+      Gedong. Di kompleks bangunan ini terdapat makam wali sepuh bernama Syekh Al-Wasil
+      Syamsudin, yang lebih dikenal dengan Mbah Wasil. Pesona wisata religi ini ramai
+      dikunjungi wisatawan. Juru kunci makam Mbah Wasil, Muhammad Yusuf Wibisono
+      mengatakan bahwa Setono Gedong berarti Makam Gede (besar). Nama tersebut bermakna
+      makam para penggede, termasuk Mbah Wasil. \n\n    Makam ini terdapat di Kelurahan
+      Setono Gedong, Kecamatan Kota, Kota Kediri. Mbah Wasil adalah wali sepuh yang
+      memperkenalkan dan menyebarkan agama Islam di Kediri, jauh sebelum syiar yang
+      dilakukan oleh para Wali Songo.\n\n\n"
+  - siteSprite: {fileID: 21300000, guid: 12c681ae0fd18ae4c8718bc4806f2935, type: 3}
+    namaSitus: Klenteng Tjoe Hwie Kiong
+    deskripsi: "    Klenteng Tjoe Hwie Kiong memiliki arsitektur yang khas dengan
+      gaya Tiongkok. Bangunan ini terbuat dari batu bata dan kayu jati asli, menunjukkan
+      kecanggihan teknologi pada saat pembangunannya. Klenteng ini memiliki bentuk
+      yang ramping dan menjulang tinggi, dengan pintu dan jendela yang masih asli
+      terbuat dari kayu jati. Di halaman klenteng, terdapat patung Burung Hong dan
+      Naga Emas yang besar, serta beberapa altar untuk memuja dewa-dewi kepercayaan
+      masyarakat Tionghoa.\n\n    Klenteng Tjoe Hwie Kiong dibangun pada tahun 1817
+      oleh warga Tionghoa yang telah bermukim di Kediri. Mereka sebagian besar adalah
+      perantauan yang berasal dari Fujian. Selain menjadi tempat ibadah, klenteng
+      ini juga menyimpan nilai sejarah yang tinggi. Pada tahun 1955, banjir besar
+      menghantam klenteng ini, menghilangkan seluruh dokumen dan catatan sejarahnya.
+      Namun, berdasarkan cerita yang dirunut para sesepuh, klenteng ini dibangun
+      oleh seorang perantau dari Cina yang masuk jalur Sungai Brantas."

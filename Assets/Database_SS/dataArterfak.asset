@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09b38ff31a25d54db3c93bad2671b42, type: 3}
+  m_Name: dataArterfak
+  m_EditorClassIdentifier: 
+  arterfak1:
+  - pecahanArterfak:
+    - {fileID: -2185199484381022516, guid: a671a593f5558a24783d6f05acb86247, type: 3}
+    - {fileID: 1907440402365442101, guid: a671a593f5558a24783d6f05acb86247, type: 3}
+    - {fileID: 1598018534670946096, guid: a671a593f5558a24783d6f05acb86247, type: 3}
+    - {fileID: -3386618299991872322, guid: a671a593f5558a24783d6f05acb86247, type: 3}
+    - {fileID: -8904498455283886228, guid: a671a593f5558a24783d6f05acb86247, type: 3}
+    arterfakFullTransparent: {fileID: 7004761938639026212, guid: 2b7bc47861430384d917f292cabda673, type: 3}
+    arterfakFull: {fileID: -9064768853362461167, guid: 2b7bc47861430384d917f292cabda673, type: 3}
+  - pecahanArterfak:
+    - {fileID: 1877844586588503607, guid: 5e75958ca33b1084ba2a1a111ea6a63f, type: 3}
+    - {fileID: -3363735752414772196, guid: 5e75958ca33b1084ba2a1a111ea6a63f, type: 3}
+    - {fileID: -2202572635265492322, guid: 5e75958ca33b1084ba2a1a111ea6a63f, type: 3}
+    - {fileID: -1440811449662457300, guid: 5e75958ca33b1084ba2a1a111ea6a63f, type: 3}
+    - {fileID: 5317149186820155179, guid: 5e75958ca33b1084ba2a1a111ea6a63f, type: 3}
+    arterfakFullTransparent: {fileID: -7086031102117405696, guid: 2b7bc47861430384d917f292cabda673, type: 3}
+    arterfakFull: {fileID: 3334833802627171662, guid: 2b7bc47861430384d917f292cabda673, type: 3}
+  - pecahanArterfak:
+    - {fileID: 4280057529214430965, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: -1980125782153367571, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: -7425687608225971309, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: -2251518984260063344, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: -6070054169076102395, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    arterfakFullTransparent: {fileID: 153659087025209378, guid: 1401ccec7b4fe4142a458aa567b47b24, type: 3}
+    arterfakFull: {fileID: -3178735920499865405, guid: 1401ccec7b4fe4142a458aa567b47b24, type: 3}
+  - pecahanArterfak:
+    - {fileID: 2933880216961930206, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: -7278793410863194304, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: 565840745298650158, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: 6247337988066122316, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    - {fileID: 2477860447659716825, guid: 1e719b49b86109242858199278d5177c, type: 3}
+    arterfakFullTransparent: {fileID: -7924976465195950210, guid: 1401ccec7b4fe4142a458aa567b47b24, type: 3}
+    arterfakFull: {fileID: -7273526520155404554, guid: 1401ccec7b4fe4142a458aa567b47b24, type: 3}

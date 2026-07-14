@@ -1,0 +1,583 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 482a75c323f4ee74f8991dd64389b397, type: 3}
+  m_Name: DataContainer
+  m_EditorClassIdentifier: 
+  documentID: 1SM901bN7soSD8rsgu8MvZBJyhV0hlWErSj41QjIaxw4
+  Quizzes:
+  - Soal: Apa yang anda ketahui tentang cagar budaya...
+    opsi1: ' Kekayaan alam'
+    opsi2: Kekayaan budaya daerah
+    opsi3: Warisan raja
+    JawabanBenar: 2
+  - Soal: Cagar budaya adalah suatu hal yang bersifat...
+    opsi1: ' Kuno'
+    opsi2: ' Ghaib'
+    opsi3: ' Baru'
+    JawabanBenar: 1
+  - Soal: Yang termasuk objek untuk kemajuan cagar budaya adalah...
+    opsi1: ' Alat digital'
+    opsi2: ' Musik DJ'
+    opsi3: Pengetahuan tradisional
+    JawabanBenar: 3
+  - Soal: Tujuan dari pelestarian Cagar budaya adalah...
+    opsi1: Mendapat medali
+    opsi2: ' Mendapat tiket haji'
+    opsi3: Melestarikan warisan nenek moyang
+    JawabanBenar: 3
+  - Soal: Agama apa yang biasanya menggunakan patung arca brahma sebagai sembahan
+      mereka...
+    opsi1: Kristen
+    opsi2: Budha
+    opsi3: Hindu
+    JawabanBenar: 3
+  - Soal: Patung arca brahma itu termasuk kategori apa...
+    opsi1: Stuktur
+    opsi2: Benda
+    opsi3: ' Bangunan'
+    JawabanBenar: 2
+  - Soal: Dibawah ini yang termasuk Cagar budaya kediri daerah Kecamatan Kepung adalah...
+    opsi1: Arca gajah
+    opsi2: Arca burung elang
+    opsi3: Arca brahma
+    JawabanBenar: 3
+  - Soal: gereja immanuel kediri gedungnya berwarna...
+    opsi1: hijau
+    opsi2: coklat
+    opsi3: merah bata
+    JawabanBenar: 3
+  - Soal: Arca gajah  ditemukan di daerah mana...
+    opsi1: kecamatan gurah
+    opsi2: kecamatan pagu
+    opsi3: kecamatan puncu
+    JawabanBenar: 3
+  - Soal: Fragmen arca recoputil di temukan di kecamatan...
+    opsi1: kecamatan setonogedong
+    opsi2: kecamatan pagu
+    opsi3: kecamatan bujel
+    JawabanBenar: 2
+  - Soal: Prasasti plosorejo ditemukan di kediri, kecamatan...
+    opsi1: 'gampengrejo '
+    opsi2: semampir
+    opsi3: rejomulyo
+    JawabanBenar: 1
+  - Soal: Prasasti plosorejo berbentuk...
+    opsi1: persegi
+    opsi2: persegi panjang
+    opsi3: tabung
+    JawabanBenar: 2
+  - Soal: Fragmen arca nandi ditemukan di kecamatan...
+    opsi1: kandat
+    opsi2: kaliombo
+    opsi3: ngadirejo
+    JawabanBenar: 1
+  - Soal: Dibawah ini mana yang termasuk cagar budaya kediri yang ditemukan di kecamatan
+      wates...
+    opsi1: situs kalipesu
+    opsi2: arca totok kerot
+    opsi3: arca ganesha
+    JawabanBenar: 1
+  - Soal: 'Situs tondowongso diatas memiliki bentuk yang menyerupai...  '
+    opsi1: persegi
+    opsi2: anak tangga
+    opsi3: rumah
+    JawabanBenar: 2
+  - Soal: Arca Gajasimha Harimurti adalah patung yang bentuk kepalanya mirip seperti....
+    opsi1: gajah
+    opsi2: singa
+    opsi3: monyet
+    JawabanBenar: 1
+  - Soal: Pada arca gajasimha harimurti di bagian kepala terdapat suatu ukiran, ukiran
+      apakah itu...
+    opsi1: Mahkota
+    opsi2: ' Pahatan yang berbentuk abstrak'
+    opsi3: ' Gambar batik daerah asal arca gajasimha harimurti'
+    JawabanBenar: 1
+  - Soal: Cagar budaya kediri lumpang batu ditemukan di desa...
+    opsi1: ngadirejo
+    opsi2: pocanan
+    opsi3: bogem
+    JawabanBenar: 3
+  - Soal: Dibawah ini cagar budaya mana yang ada di kediri daerah ngrogol...
+    opsi1: Panil Relief Panji Gambyok
+    opsi2: ' Arca brahma'
+    opsi3: ' Ambang pintu'
+    JawabanBenar: 1
+  - Soal: 'Situs gambyok adalah sebuah cagar budaya yang ditemukan di kecamatan... '
+    opsi1: kampungdalem
+    opsi2: manisrenggo
+    opsi3: grogol
+    JawabanBenar: 3
+  - Soal: Artefak apa yang ditemukan di dalam gereja immanuel kediri...
+    opsi1: permata
+    opsi2: 'alkitab '
+    opsi3: liontin
+    JawabanBenar: 2
+  - Soal: Patung reco buto memiliki ciri khas yang ada di area wajahnya yaitu...
+    opsi1: Mata yang sedikit besar
+    opsi2: ' Ular yang melilit di lehernya'
+    opsi3: Tangan yang memegang sesuatu
+    JawabanBenar: 1
+  - Soal: Ada berapakah cagar budaya yang berkategori struktur di kecamatan pagu...
+    opsi1: 2
+    opsi2: 6
+    opsi3: 1
+    JawabanBenar: 3
+  - Soal: Situs semen jaladwara  ditemukan di daerah...
+    opsi1: Kecamatan pagu
+    opsi2: Kecamatan nggurah
+    opsi3: Kecamatan wates
+    JawabanBenar: 1
+  - Soal: Di daerah gampengrejo hanya ada 2 cagar budaya yg ditemukan, kedua cagar
+      budaya tersebut memiliki kategori yang sama yaitu...
+    opsi1: Benda
+    opsi2: Struktur
+    opsi3: Bangunan
+    JawabanBenar: 1
+  - Soal: Di daerah ngadiluwih hanya ada 1 cagar budaya yang ditemukan yaitu...
+    opsi1: Batu Inskripsi Tahun 1134 Saka
+    opsi2: Ambang pintu
+    opsi3: ' Patung totok kerot'
+    JawabanBenar: 1
+  - Soal: Menurutmu manakah upaya di bawah ini yang tepat untuk melestarikan cagar
+      budaya...
+    opsi1: Membangun ruang kesenian
+    opsi2: Memempelajari sejarah alat tradisional
+    opsi3: Mengajarkan kesenian tradisional kepada anak jaman sekarang
+    JawabanBenar: 3
+  - Soal: Dibawah ini yang merupakan wujud cagar budaya yang dapat dikategorikan
+      sebagai struktur adalah...
+    opsi1: Patung arca brahma
+    opsi2: Patuk totok kerot
+    opsi3: Jobong Sumur Inskripsi 1112 Saka
+    JawabanBenar: 3
+  - Soal: Panil Relief Panji Gambyok adalah benda cagar budaya kediri yang terletak
+      di daerah...
+    opsi1: ' Kecamatan grogol'
+    opsi2: ' Kecamatan nggurah'
+    opsi3: Kecamatan wates
+    JawabanBenar: 1
+  - Soal: 'Ambang pintu memiliki bentuk yang mirip seperti... '
+    opsi1: tempat duduk dari batu
+    opsi2: 'ambang pintu '
+    opsi3: persegi panjang
+    JawabanBenar: 2
+  - Soal: Ndalem pojok merupakan situs cagar budaya kediri yang dapat di kategorikan
+      sebagai...
+    opsi1: Struktur
+    opsi2: ' Bangunan'
+    opsi3: Benda
+    JawabanBenar: 2
+  - Soal: Jembatan lama kediri memiliki panjang...
+    opsi1: 178 km
+    opsi2: 381 km
+    opsi3: 160 km
+    JawabanBenar: 3
+  - Soal: Apa ciri-ciri situs cagar budaya yang dapat dikategorikan sebagai benda...
+    opsi1: Suatu benda yang dapat dipindah-pindah
+    opsi2: Suatu benda yang tidak dapat dipindah dan hanya bisa menetap
+    opsi3: Suatu benda yang dibuat oleh orang jaman dulu
+    JawabanBenar: 1
+  - Soal: Apa ciri-ciri cagar budaya yang dapat dikategorikan sebagai struktur...
+    opsi1: Suatu benda yang dapat dipindah-pindah
+    opsi2: Suatu benda yang tidak dapat dipindah
+    opsi3: Suatu benda yang dibuat oleh orang jaman dulu
+    JawabanBenar: 2
+  - Soal: ' Fragmen Arca Gadung ditemukan di kabupaten kediri pada kecamatan... '
+    opsi1: Nggrogol
+    opsi2: Wates
+    opsi3: Pagu
+    JawabanBenar: 3
+  - Soal: 'Di bawah ini yang termasuk cagar budaya kediri yang ditemukan di kecamatan
+      gampengrejo adalah... '
+    opsi1: Arca Gajasimhasamharamurtti
+    opsi2: Patung arca prasasti
+    opsi3: Arca siwa
+    JawabanBenar: 1
+  - Soal: 'Ada berapakakah cagar budaya prasasti geneng yang ada di kabupaten kediri... '
+    opsi1: 4
+    opsi2: 2
+    opsi3: 1
+    JawabanBenar: 2
+  - Soal: 'Dibawah ini sikap remaja mana yang dapat membuat cagar budaya punah... '
+    opsi1: Mendalami pelajaran kesenian tradisional
+    opsi2: Menyebarkan ilmunya pada orang luar negri
+    opsi3: Merusak situs-situs cagar budaya
+    JawabanBenar: 3
+  - Soal: Bangunan Gereja Santa Maria Pohsarang adalah cagara budaya kediri yang
+      termasuk kategori...
+    opsi1: 'bangunan '
+    opsi2: struktur
+    opsi3: situs
+    JawabanBenar: 1
+  - Soal: Cagar budaya Situs Prasasti Lucem Pohsarang ditemukan di kecamatan...
+    opsi1: tamanan
+    opsi2: pojok
+    opsi3: semen
+    JawabanBenar: 3
+  - Soal: 'Patung yoni telah ditemukan di kediri pada kecamatan... '
+    opsi1: banaran
+    opsi2: pakunden
+    opsi3: kepung
+    JawabanBenar: 3
+  - Soal: Patung yoni memiliki bentuk yang serupa dengan...
+    opsi1: persegi
+    opsi2: bentuk rahim ibu
+    opsi3: lapisan rahim
+    JawabanBenar: 2
+  - Soal: Situs tondowongso di temukan di...
+    opsi1: ' Kabupaten kediri'
+    opsi2: Dusun tondowongso
+    opsi3: Kecamatan gurah
+    JawabanBenar: 2
+  - Soal: Cagar budaya candi tondowongso dapat dikategorikan sebagai...
+    opsi1: Situs
+    opsi2: Benda
+    opsi3: Bangunan
+    JawabanBenar: 3
+  - Soal: Klenteng Tjoe Hwie Kiong adalah tempat ibadah untuk etnis...
+    opsi1: suku jawa
+    opsi2: sunda
+    opsi3: tionghoa
+    JawabanBenar: 3
+  - Soal: Alat musik lesung berasal dari...
+    opsi1: Kabupaten kediri
+    opsi2: Desa joho
+    opsi3: Kecamatan gurah
+    JawabanBenar: 2
+  - Soal: Lumpang batu terbuat dari...
+    opsi1: semen
+    opsi2: batu
+    opsi3: keramik
+    JawabanBenar: 2
+  - Soal: 'Fragmen Arca Mahakala ditemukan di kediri, kecamatan... '
+    opsi1: kandat
+    opsi2: pakelan
+    opsi3: semampir
+    JawabanBenar: 1
+  - Soal: Biasanya orang-orang menggunakan fragmen Arca Ganesha sebagai...
+    opsi1: hiasan
+    opsi2: sembahan
+    opsi3: pajangan
+    JawabanBenar: 2
+  - Soal: Fragmen arca nandi memiliki bentuk seperti...
+    opsi1: mammoth
+    opsi2: gajah
+    opsi3: sapi
+    JawabanBenar: 3
+  Quizzes2:
+  - Soal: Prasasti plosorejo ditemukan di kediri, kecamatan...
+    opsi1: 'gampengrejo '
+    opsi2: semampir
+    opsi3: rejomulyo
+    JawabanBenar: 1
+  - Soal: Prasasti plosorejo berbentuk...
+    opsi1: persegi
+    opsi2: persegi panjang
+    opsi3: tabung
+    JawabanBenar: 2
+  - Soal: Fragmen arca nandi ditemukan di kecamatan...
+    opsi1: kandat
+    opsi2: kaliombo
+    opsi3: ngadirejo
+    JawabanBenar: 1
+  - Soal: Dibawah ini mana yang termasuk cagar budaya kediri yang ditemukan di kecamatan
+      wates...
+    opsi1: situs kalipesu
+    opsi2: arca totok kerot
+    opsi3: arca ganesha
+    JawabanBenar: 1
+  - Soal: 'Situs tondowongso diatas memiliki bentuk yang menyerupai...  '
+    opsi1: persegi
+    opsi2: anak tangga
+    opsi3: rumah
+    JawabanBenar: 2
+  - Soal: Arca Gajasimha Harimurti adalah patung yang bentuk kepalanya mirip seperti....
+    opsi1: gajah
+    opsi2: singa
+    opsi3: monyet
+    JawabanBenar: 1
+  - Soal: Pada arca gajasimha harimurti di bagian kepala terdapat suatu ukiran yang
+      berbentuk suatu benda, benda apakah itu...
+    opsi1: Mahkota
+    opsi2: ' Pahatan yang berbentuk abstrak'
+    opsi3: ' Gambar batik daerah asal arca gajasimha harimurti'
+    JawabanBenar: 1
+  - Soal: Cagar budaya kediri lumpang batu ditemukan di desa...
+    opsi1: ngadirejo
+    opsi2: pocanan
+    opsi3: bogem
+    JawabanBenar: 3
+  - Soal: Dibawah ini cagar budaya mana yang ada di kediri daerah ngrogol...
+    opsi1: Panil Relief Panji Gambyok
+    opsi2: ' Arca brahma'
+    opsi3: ' Ambang pintu'
+    JawabanBenar: 1
+  - Soal: 'Situs gambyok adalah sebuah cagar budaya yang ditemukan di kecamatan... '
+    opsi1: kampungdalem
+    opsi2: manisrenggo
+    opsi3: grogol
+    JawabanBenar: 3
+  Quizzes3:
+  - Soal: Perhatikan nama-nama cagar budaya kediri dibawah ini!<br>1.) Patung dewa
+      siwa<br>2.) Patung dewa ganesha<br>3.) Situs Adan-Adan<br>Nama-nama cagar budaya
+      di atas yang berada di kecamatan gurah adalah...
+    opsi1: 2
+    opsi2: 3
+    opsi3: 1
+    JawabanBenar: 2
+  - Soal: Patung reco buto memiliki ciri khas yang ada di area wajahnya yaitu...
+    opsi1: Mata yang sedikit besar
+    opsi2: ' Ular yang melilit di lehernya'
+    opsi3: Tangan yang memegang sesuatu
+    JawabanBenar: 1
+  - Soal: Ada berapakah cagar budaya yang berkategori struktur di kecamatan pagu...
+    opsi1: 2
+    opsi2: 6
+    opsi3: 1
+    JawabanBenar: 3
+  - Soal: Situs semen jaladwara tersebut ditemukan di daerah...
+    opsi1: Kecamatan pagu
+    opsi2: Kecamatan nggurah
+    opsi3: Kecamatan wates
+    JawabanBenar: 1
+  - Soal: Di daerah gampengrejo hanya ada 2 cagar budaya yg ditemukan, kedua cagar
+      budaya tersebut memiliki kategori yang sama yaitu...
+    opsi1: Benda
+    opsi2: Struktur
+    opsi3: Bangunan
+    JawabanBenar: 1
+  - Soal: Di daerah ngadiluwih hanya ada 1 cagar budaya yang ditemukan yaitu...
+    opsi1: Batu Inskripsi Tahun 1134 Saka
+    opsi2: Ambang pintu
+    opsi3: ' Patung totok kerot'
+    JawabanBenar: 1
+  - Soal: Cagar budaya adalah suatu hal yang sudah sangat diremehkan oleh para remaja
+      saat ini, menurutmu manakah upaya di bawah ini yang tepat untuk melestarikan
+      cagar budaya...
+    opsi1: Membangun ruang kesenian
+    opsi2: Memempelajari sejarah alat tradisional
+    opsi3: Mengajarkan kesenian tradisional kepada anak jaman sekarang
+    JawabanBenar: 3
+  - Soal: Dibawah ini yang merupakan wujud cagar budaya yang dapat dikategorikan
+      sebagai struktur adalah...
+    opsi1: Patung arca brahma
+    opsi2: Patuk totok kerot
+    opsi3: Jobong Sumur Inskripsi 1112 Saka
+    JawabanBenar: 3
+  - Soal: Panil Relief Panji Gambyok adalah benda cagar budaya kediri yang terletak
+      di daerah...
+    opsi1: ' Kecamatan grogol'
+    opsi2: ' Kecamatan nggurah'
+    opsi3: Kecamatan wates
+    JawabanBenar: 1
+  - Soal: 'Gambar batu ambang pintu diatas memiliki bentuk yang seperti... '
+    opsi1: tempat duduk dari batu
+    opsi2: 'ambang pintu '
+    opsi3: persegi panjang
+    JawabanBenar: 2
+  Quizzes4:
+  - Soal: Ndalem pojok merupakan situs cagar budaya kediri yang dapat di kategorikan
+      sebagai...
+    opsi1: Struktur
+    opsi2: ' Bangunan'
+    opsi3: Benda
+    JawabanBenar: 2
+  - Soal: Perhatikan nama-nama cagar budaya di bawah ini!<br>1.) Jobong Sumur Inskripsi
+      1112 Saka<br>2.) Fragmen Arca Dwarapala<br>3.) Fragmen Arca Ganesha<br>4.)
+      Bangunan Dalem Pojok<br>5.) Prasasti Paradah<br>Dari nama-nama cagar budaya
+      diatas yang yang dapat dikategorikan sebagai benda adalah...
+    opsi1: 1, 3, dan 5
+    opsi2: ' 3, 4, dan 6'
+    opsi3: 2, 3, dan 5
+    JawabanBenar: 3
+  - Soal: Apa ciri-ciri situs cagar budaya yang dapat dikategorikan sebagai benda...
+    opsi1: Suatu benda yang dapat dipindah-pindah
+    opsi2: Suatu benda yang tidak dapat dipindah dan hanya bisa menetap
+    opsi3: Suatu benda yang dibuat oleh orang jaman dulu
+    JawabanBenar: 1
+  - Soal: Apa ciri-ciri cagar budaya yang dapat dikategorikan sebagai struktur...
+    opsi1: Suatu benda yang dapat dipindah-pindah
+    opsi2: Suatu benda yang tidak dapat dipindah
+    opsi3: Suatu benda yang dibuat oleh orang jaman dulu
+    JawabanBenar: 2
+  - Soal: ' Fragmen Arca Gadung ditemukan di kabupaten kediri pada kecamatan... '
+    opsi1: Nggrogol
+    opsi2: Wates
+    opsi3: Pagu
+    JawabanBenar: 3
+  - Soal: 'Di bawah ini yang termasuk cagar budaya kediri yang ditemukan di kecamatan
+      gampengrejo adalah... '
+    opsi1: Arca Gajasimhasamharamurtti
+    opsi2: Patung arca prasasti
+    opsi3: Arca siwa
+    JawabanBenar: 1
+  - Soal: 'Ada berapakakah cagar budaya prasasti geneng yang ada di kabupaten kediri... '
+    opsi1: 4
+    opsi2: 2
+    opsi3: 1
+    JawabanBenar: 2
+  - Soal: 'Dibawah ini sikap remaja mana yang dapat membuat cagar budaya punah... '
+    opsi1: Mendalami pelajaran kesenian tradisional
+    opsi2: Menyebarkan ilmunya pada orang luar negri
+    opsi3: Merusak situs-situs cagar budaya
+    JawabanBenar: 3
+  - Soal: 'Bangunan Gereja Santa Maria Pohsarang adalah cagara budaya kediri yang
+      dapat dikategorikan sebagai... '
+    opsi1: 'bangunan '
+    opsi2: struktur
+    opsi3: situs
+    JawabanBenar: 1
+  - Soal: Cagar budaya Situs Prasasti Lucem Pohsarang ditemukan di kecamatan...
+    opsi1: tamanan
+    opsi2: pojok
+    opsi3: semen
+    JawabanBenar: 3
+  Quizzes5:
+  - Soal: 'Patung yoni telah ditemukan di kediri pada kecamatan... '
+    opsi1: banaran
+    opsi2: pakunden
+    opsi3: kepung
+    JawabanBenar: 3
+  - Soal: Patung yoni memiliki bentuk yang serupa dengan...
+    opsi1: persegi
+    opsi2: bentuk rahim ibu
+    opsi3: lapisan rahim
+    JawabanBenar: 2
+  - Soal: Situs tondowongso di temukan di...
+    opsi1: ' Kabupaten kediri'
+    opsi2: Dusun tondowongso
+    opsi3: Kecamatan gurah
+    JawabanBenar: 2
+  - Soal: Cagar budaya candi tondowongso dapat dikategorikan sebagai...
+    opsi1: Situs
+    opsi2: Benda
+    opsi3: Bangunan
+    JawabanBenar: 3
+  - Soal: perhatikan pernyataan dibawah ini!<br>a.) Prasasti Plosorejo<br>b.) Arca
+      Gajasimhasamharamurtti<br>c.) patung totok kerot<br>d.) candi tegowangi<br>e.)
+      Situs Prasasti Lucem Pohsarang<br>Dari pernyataan diatas cagar budaya mana
+      yang ditemukan di kecamatan gampengrejo...
+    opsi1: b, d
+    opsi2: b, c
+    opsi3: a, b
+    JawabanBenar: 3
+  - Soal: Alat musik lesung berasal dari...
+    opsi1: Kabupaten kediri
+    opsi2: Desa joho
+    opsi3: Kecamatan gurah
+    JawabanBenar: 2
+  - Soal: Lumpang batu terbuat dari...
+    opsi1: semen
+    opsi2: batu
+    opsi3: keramik
+    JawabanBenar: 2
+  - Soal: 'Fragmen Arca Mahakala ditemukan di kediri, kecamatan... '
+    opsi1: kandat
+    opsi2: pakelan
+    opsi3: semampir
+    JawabanBenar: 1
+  - Soal: Biasanya orang-orang menggunakan fragmen Arca Ganesha sebagai...
+    opsi1: hiasan
+    opsi2: sembahan
+    opsi3: pajangan
+    JawabanBenar: 2
+  - Soal: Fragmen arca nandi memiliki bentuk seperti...
+    opsi1: mammoth
+    opsi2: gajah
+    opsi3: sapi
+    JawabanBenar: 3
+  guessImage:
+  - gambar: https://upload.wikimedia.org/wikipedia/commons/e/e9/Jaladwara.jpg
+    opsi1: Arca Brahma
+    opsi2: Drawapala
+    opsi3: Jaladwara
+    JawabanBenar: 3
+  - gambar: https://apps.cagarbudayajatim.com/wp-content/uploads/2022/04/A-Ganesha.jpg
+    opsi1: Arca Brahma
+    opsi2: Arca Gajasimhasamharamurtti
+    opsi3: Prasasti Plosorejo
+    JawabanBenar: 2
+  - gambar: https://lh3.googleusercontent.com/p/AF1QipMgG-UmXcQLWxWdbb4xqCD-2xaDWNKMwJCjXp9F=s1360-w1360-h1020
+    opsi1: SItus Dwarapala Tothok Kerot
+    opsi2: SItus Semen
+    opsi3: Situs Kalipesu
+    JawabanBenar: 1
+  - gambar: https://kediripedia.com/wp-content/uploads/2021/06/totok-kerot.jpeg
+    opsi1: Arca totok kerot
+    opsi2: Patung venus de milo
+    opsi3: Patung liberty
+    JawabanBenar: 1
+  - gambar: https://i.ytimg.com/vi/x6MmOhaeseg/maxresdefault.jpg
+    opsi1: Arca ganesha
+    opsi2: 'Arca brahma  '
+    opsi3: Dewa wisnu
+    JawabanBenar: 2
+  - gambar: https://upload.wikimedia.org/wikipedia/commons/e/e9/Jaladwara.jpg
+    opsi1: jaladwara
+    opsi2: patung wisnu kencana
+    opsi3: patung satria gatot kaca
+    JawabanBenar: 1
+  - gambar: https://i0.wp.com/travellersblitar.com/wp-content/uploads/2018/06/situs-plosorejo-blitar.jpg
+    opsi1: Situs Prasasti Lucem Pohsarang
+    opsi2: Arca Gajasimhasamharamurtti
+    opsi3: Prasasti plosorejo
+    JawabanBenar: 3
+  - gambar: https://bimamedia-gurusiana.ap-south-1.linodeobjects.com/5d2a491a939a34ea7485e9894832af9e/2023/04/28/l-img-20230428-wa0000jpg20230428101214.jpeg
+    opsi1: Candi surowono
+    opsi2: Candi penataran
+    opsi3: Candi borobudur
+    JawabanBenar: 1
+  - gambar: https://poncowarno.kec-poncowarno.kebumenkab.go.id/uploads/gambar/27122022100312-Poncowarno-Kebumen-gutama.jpg
+    opsi1: Lesung
+    opsi2: Alat musik ketipung
+    opsi3: Saronen
+    JawabanBenar: 1
+  - gambar: https://i0.wp.com/travellersblitar.com/wp-content/uploads/2017/10/selo-gajah.jpg?w=800&ssl=1
+    opsi1: arca gajahsimha harimurti
+    opsi2: 'arca gajah '
+    opsi3: arca mammoth
+    JawabanBenar: 2
+  - gambar: https://cdn.idntimes.com/content-images/post/20220209/whatsapp-image-2022-02-09-at-160242-2-081b43e1d099c3df795abddd7029534c_600x400.jpeg
+    opsi1: ambang pintu
+    opsi2: 'arca gajah '
+    opsi3: arca semen
+    JawabanBenar: 1
+  benda: []
+  situs: []
+  strukturDanBangunan: []
+  card:
+  - Gambar: https://drive.google.com/file/d/17Qm-lAlUsIMj7IwFTfbe6NUgE6yAHgkf/view?usp=drive_link
+    Nama: Arca Kepala Kala
+    Lokasi: Ngasem
+    Deskripsi: Benda Cagar Budaya yang terdapat di Kecamatan Ngasem
+    gambar: {fileID: 0}
+  - Gambar: https://drive.google.com/file/d/1VvW0jUWELgLsn6m4wxRs6Z7rTlYhnYGC/view?usp=drive_link
+    Nama: SItus Dwarapala Tothok Kerot
+    Lokasi: Pagu
+    Deskripsi: Situs yang cukup terkenal di kediri
+    gambar: {fileID: 0}
+  - Gambar: 
+    Nama: 
+    Lokasi: 
+    Deskripsi: 
+    gambar: {fileID: 0}
+  - Gambar: 
+    Nama: 
+    Lokasi: 
+    Deskripsi: 
+    gambar: {fileID: 0}
+  - Gambar: 
+    Nama: 
+    Lokasi: 
+    Deskripsi: 
+    gambar: {fileID: 0}
